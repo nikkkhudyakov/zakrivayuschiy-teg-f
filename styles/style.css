@@ -191,6 +191,7 @@ figure.card__image-container {
   border: 2px solid transparent;
   background: transparent;
   cursor: pointer;
+  block-size: 38px;
   transition: border-color 0.3s ease;
 }
 
